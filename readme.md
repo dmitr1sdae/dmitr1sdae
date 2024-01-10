@@ -2,7 +2,7 @@
 I'm Dmitriy Chukhno, a full stack programmer using react and rust
 
 #### My technology stack
-General
+##### General
 <div>
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/bd943690-d924-40f4-be68-5e7c9c365c14" alt="Linux" />
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/f49d8a65-4f4b-4abc-a885-eaf00a6b6a09" alt="Bash" />
@@ -12,7 +12,7 @@ General
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/7527ef8c-75cb-41ac-a7e3-feca00772dcf" alt="Docker" />
 </div>
 
-Frontend
+##### Frontend
 <div>
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/cfb39330-04d3-4f8c-ba7c-994bd8af86cd" alt="JavaScript" />
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/883c0fdd-2a6b-473a-b7d8-21e0a0f85b0e" alt="TypeScript" />
@@ -24,7 +24,7 @@ Frontend
   
 </div>
 
-Backend
+##### Backend
 <div>
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/51a597d3-c6f6-4de6-85ff-c8ded8c4c45f" alt="Rust" />
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/3069ffd0-7cf4-4937-a9c6-9bee5da540b2" alt="Tokio" />
