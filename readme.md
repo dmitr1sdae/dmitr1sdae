@@ -1,6 +1,8 @@
 ### 💜 Hey there, I'm Dmitriy!
 I'm Dmitriy Chukhno, a full stack programmer using react and rust
 
+<img width="300px" align="right" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/08a6ec22-2839-48b4-be6d-cadb9978f7d7" alt="Power">
+
 #### My technology stack
 ##### General
 <div>
@@ -35,5 +37,10 @@ I'm Dmitriy Chukhno, a full stack programmer using react and rust
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/28f0572f-e82a-4117-b308-a679c7272c4b" alt="MongoDB" />
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/1e51bcea-a41e-4559-99b5-ed7d546ac3bd" alt="Redis" />
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/868d71f6-6190-444f-8d1d-37c13eeb8fb1" alt="gRPC" />
+</div>
+
+#### Desktop
+<div>
+  <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/cf448475-eb84-48bd-992c-a2ab499daf28" alt="Tauri" />
 </div>
 
