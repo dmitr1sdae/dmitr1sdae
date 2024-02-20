@@ -39,7 +39,7 @@ I'm Dmitriy Chukhno, a full stack programmer using react and rust
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/868d71f6-6190-444f-8d1d-37c13eeb8fb1" alt="gRPC" />
 </div>
 
-#### Desktop
+##### Desktop
 <div>
   <img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/152066369/cf448475-eb84-48bd-992c-a2ab499daf28" alt="Tauri" />
 </div>
