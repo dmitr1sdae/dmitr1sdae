@@ -1,7 +1,7 @@
 <h3>💜 Hey there, I'm Dmitriy!</h3>
 <div >
   I'm Dmitriy Chukhno, a full stack programmer using react and rust
-  <img align="center" width="25px" src="https://github.com/user-attachments/assets/8d57630f-6729-4aef-8032-7f0c643da4aa" alt="aa">
+  <a href="https://www.dmitr1sdae.com"><img align="center" width="25px" src="https://github.com/user-attachments/assets/8d57630f-6729-4aef-8032-7f0c643da4aa" alt="catFlustered"></a>
 </div>
 
 <a href="https://www.dmitr1sdae.com"><img align="right" width="377px" src="https://github.com/user-attachments/assets/5c7a7a81-c78c-4633-aab6-9866ec2be7e5" alt="Power"></a>
