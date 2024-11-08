@@ -1,5 +1,8 @@
 <h3>💜 Hey there, I'm Dmitriy!</h3>
-I'm Dmitriy Chukhno, a full stack programmer using react and rust
+<div >
+  I'm Dmitriy Chukhno, a full stack programmer using react and rust
+  <img align="center" width="25px" src="https://github.com/user-attachments/assets/8d57630f-6729-4aef-8032-7f0c643da4aa" alt="aa">
+</div>
 
 <a href="https://www.dmitr1sdae.com"><img align="right" width="377px" src="https://github.com/user-attachments/assets/5c7a7a81-c78c-4633-aab6-9866ec2be7e5" alt="Power"></a>
 
@@ -52,3 +55,4 @@ I'm Dmitriy Chukhno, a full stack programmer using react and rust
     <a href="https://godotengine.org"><img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/169852179/94aa1a02-0698-452d-90e7-810bc6cb0ea9" alt="Godot" /></a>
   </div>
 </div>
+
