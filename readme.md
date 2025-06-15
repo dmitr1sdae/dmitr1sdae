@@ -48,11 +48,5 @@
     <a href="https://prometheus.io"><img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/169852179/df45c8c9-c703-4e0e-9a9c-1df2e29b7c4e" alt="Prometheus" /></a>
     <a href="https://grafana.com"><img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/169852179/dfaf878c-0fef-4119-b461-cd49aaf4e101" alt="Grafana" /></a>
   </div>
-  
-  <h5>Games</h5>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/169852179/8f03766b-43a7-4e91-99c1-a894b445c018" alt="csharp" /></a>
-    <a href="https://www.blender.org"><img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/169852179/67d5f6b2-7b77-4ea6-a5c2-e634040e0e17" alt="Blender" /></a>
-    <a href="https://godotengine.org"><img width="50px" src="https://github.com/dmitr1sdae/dmitr1sdae/assets/169852179/94aa1a02-0698-452d-90e7-810bc6cb0ea9" alt="Godot" /></a>
-  </div>
 </div>
 
